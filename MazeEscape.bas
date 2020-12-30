@@ -2,7 +2,7 @@
  rem **********************************
  rem *<Maze Escape >                      *
  rem *<Try to not touch the maze and arrive at the end of the labyrinth >                   *
- rem *<Giacomo Castellana >                        *
+rem *<CasteSoftwork >                        *
  rem *<All Rights Reserved >                       *
  rem **********************************
 
