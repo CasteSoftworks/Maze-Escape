@@ -3,7 +3,6 @@
  rem *<Maze Escape >                      *
  rem *<Try to not touch the maze and arrive at the end of the labyrinth >                   *
  rem *<Giacomo Castellana >                        *
- rem *<giacomo.castellana01@gmail.com >                  *
  rem *<All Rights Reserved >                       *
  rem **********************************
 
